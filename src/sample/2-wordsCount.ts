@@ -1,6 +1,6 @@
 import * as vscode from 'vscode';
 
-// 简单的 显示编辑器中选中的字符数
+// 简单的 显示编辑器中选中的字符数  -- master修改
 module.exports = function(context:vscode.ExtensionContext) {
 
     let disposable = vscode.commands.registerCommand('extension.wordsCount', () => {
