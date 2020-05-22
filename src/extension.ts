@@ -1,4 +1,5 @@
 import * as vscode from 'vscode';
+// dev 修改：++++
 
 // Each extension should export from its main file a function named activate(), 
 // which VS Code will invoke only once when any of the activationEvents described in the package.json file occur.
